@@ -18,7 +18,7 @@ A passionate data analytics professional with over 12 years of experience in sal
 
 🔍 **Featured Projects**  
 - **Enterprise Project Management Enhancement with AI & ML (Traxidy, 12/2024):**
-    - Developed a cutting-edge system leveraging machine learning, generative AI, and advanced analytics to optimize project management processes.
+    - Developed a system leveraging machine learning, generative AI, and advanced analytics to optimize project management processes.
     - Built a Streamlit-based dashboard for real-time insights.
     - Designed predictive models using XGBoost for project status forecasting.
     - Implemented a generative AI model for actionable insights on resource allocation and milestone prioritization.
