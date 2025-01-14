@@ -23,17 +23,13 @@ A passionate data analytics professional with over 12 years of experience in sal
     - Designed predictive models using XGBoost for project status forecasting.
     - Implemented a generative AI model for actionable insights on resource allocation and milestone prioritization.
 
-- **Boston's Real Estate Saga (Northeastern University, 12/2023):**
-    - Analyzed 2023 Boston property assessments using Tableau to uncover real estate dynamics and property trends across Massachusetts cities.
+- **Boston's Real Estate Saga (Northeastern University, 12/2023):** - Analyzed 2023 Boston property assessments using Tableau to uncover real estate dynamics and property trends across Massachusetts cities.
 
-- **Zomato EDA & Prediction (Northeastern University, 07/2023):**
-    - Built predictive models for Bangalore restaurant data using Python libraries such as NumPy, Pandas, and Matplotlib to derive actionable insights.
+- **Zomato EDA & Prediction (Northeastern University, 07/2023):** - Built predictive models for Bangalore restaurant data using Python libraries such as NumPy, Pandas, and Matplotlib to derive actionable insights.
 
-- **PO Compliance Project (Tata Communications, 05/2017 – 01/2020):**
-    - Spearheaded a strategic compliance initiative, improving revenue compliance from 45% to 98.5% and order compliance from 35% to 96%. Enhanced operational efficiency and customer satisfaction through process optimization and data tracking.
+- **PO Compliance Project (Tata Communications, 05/2017 – 01/2020):** - Spearheaded a strategic compliance initiative, improving revenue compliance from 45% to 98.5% and order compliance from 35% to 96%. Enhanced operational efficiency and customer satisfaction through process optimization and data tracking.
 
-- **Implementation of Exception Module (Tata Communications, 05/2014):**
-    - Designed and deployed a Salesforce-based exception module to streamline service delivery, track issues, and facilitate data-driven decision-making.
+- **Implementation of Exception Module (Tata Communications, 05/2014):** - Designed and deployed a Salesforce-based exception module to streamline service delivery, track issues, and facilitate data-driven decision-making.
 
 🏆 **Achievements & Interests**  
 - 🏅 Chess Champion: Winner of 'Moves of the Champions' Global Tournament at Tata Communications Limited (2020)
