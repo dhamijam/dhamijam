@@ -1,5 +1,4 @@
-👋 Hi, I’m Mohit Dhamija  
-A passionate data analytics professional with over 12 years of experience in sales operations, customer success, and data-driven decision-making. Currently pursuing a Master's in Analytics at Northeastern University, I thrive at the intersection of business insights and advanced analytics tools.
+👋 Hi, I’m Mohit Dhamija, a passionate data analytics professional with over 12 years of experience in sales operations, customer success, and data-driven decision-making. Currently pursuing a Master's in Analytics at Northeastern University, I thrive at the intersection of business insights and advanced analytics tools.
 
 
 🛠️ **Technical Expertise**  
